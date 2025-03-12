@@ -1,4 +1,4 @@
-# Relato de Experiência: Desenvolvimento de Formulário Maximalista com Tema Azul
+# Relato de Experiência: Desenvolvimento de Formulário 
 
 # Introdução
 
